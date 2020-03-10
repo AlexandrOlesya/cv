@@ -20,6 +20,7 @@ A motivated, self-organized person with strong management, communication, and pr
 * Accomplished "Basics of JavaScript" course on [htmlacademy.ru](https://htmlacademy.ru/courses/basic-javascript)
 * Accomplished "Basics of CSS" course on [htmlacademy.ru](https://htmlacademy.ru/courses/basic-css)
 * Accomplished "Basics of JavaScript" course on [htmlacademy.ru](https://htmlacademy.ru/courses/javascript)
+* Have read book "Software testing" (writted by Svyatoslav Kulikhov)
 
 ## Non-IT Experience
 
