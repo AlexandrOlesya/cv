@@ -4,11 +4,12 @@
 A motivated, self-organized person with strong management, communication, and problem-solving skills with constant willingness to learn new things and willing to move further in career and as a person. Recently I discovered for myself the beautiful world of IT and fell in love with the basics of programming. However, I understand that I don't have strong programming skills yet and until I grow to the next technical level I thought that I could enter the IT-sphere as a QA engineer to learn more about IT and to learn IT from a different angle. Interested in getting skills in automating testing and programming in general.
 
 ## Skills
-* Understanding of Kanban development process
+* Fundamentals of theory of testing
+* Understanding of development processes and methodologies
 * Strong management, communications, and problem-solving skills
 * Dedicated and self-motivated
 * Basics of source control systems (GIT and GitHub)
-* Basics of JavaScript, CSS, and HTML
+* Basics of SQL, JavaScript, CSS, and HTML
 * Actively learning English
 
 ## Contacts
@@ -16,11 +17,12 @@ A motivated, self-organized person with strong management, communication, and pr
 * EmaiL: `mochalov.alexandr@gmail.com`
 
 ## IT Experience
+* Accomplished "Software testing. Level 1" course on Geekbrains
+* Have read book "Software testing" (writted by Svyatoslav Kulikhov)
 * Accomplished "Basics of CSS and HTML" course on [htmlacademy.ru](https://htmlacademy.ru/courses/basic-html-css)
 * Accomplished "Basics of JavaScript" course on [htmlacademy.ru](https://htmlacademy.ru/courses/basic-javascript)
 * Accomplished "Basics of CSS" course on [htmlacademy.ru](https://htmlacademy.ru/courses/basic-css)
 * Accomplished "Basics of JavaScript" course on [htmlacademy.ru](https://htmlacademy.ru/courses/javascript)
-* Have read book "Software testing" (writted by Svyatoslav Kulikhov)
 
 ## Non-IT Experience
 
